@@ -13,3 +13,6 @@ qr.make(fit=True)
 img=qr.make_image()
 img.save("detailsqr.png")
 img.show()
+ 
+
+Project is Updated....
